@@ -33,7 +33,7 @@
 
 - ### Diagrams
 #### 1. USER WORKFLOW DIAGRAM
-![User Workflow Diagram](User%20workflow%20diagram%20%28Vending%20Machine%29.png)
+![User Workflow Diagram](user-workflow-diagram.png)
 
 #### 2. DATA FLOW DIAGRAM
-![Data Flow Diagram](Data%20flow%20diagram%20%28Vending%20Machine%29.png)
+![Data Flow Diagram](data-flow-diagram.png)
