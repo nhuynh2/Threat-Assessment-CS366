@@ -12,15 +12,16 @@
 - Data: credit-card information and system record
 
 # What assets are most valuable?
-## Based on Price (estimated):
+## Based on Price:
 - Refrigerator: $800
 - Control Board: $500
 - Bill Validator: $300
 - Credit Reader: $200
-- Data: false sytem record
+- Product: quickly escalated
+- Cash and Coins: quickly escalated
+- Data: loss of income due to false sytem record
 ## Based on Risk:
-- Control Board: leaking information and no income
-- Credit Reader: leaking information
-- Bill Validator: no income from cash
-- Data: leaking and false information
-
+- Control Board: leaking data and loss of income
+- Credit Reader: leaking data
+- Bill Validator: loss of income
+- Data: harm reputation, sued and compensation, loss of income
