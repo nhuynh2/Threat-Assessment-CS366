@@ -17,6 +17,7 @@
 - Credit Reader: $200
 - Product: vary but quickly escalate
 ## Based on Risk:
-- Credit Reader
-- Bill Validator
-- Control Board
+- Control Board: leaking information and no income
+- Credit Reader: leaking information
+- Bill Validator: no income from cash
+
