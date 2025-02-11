@@ -7,7 +7,9 @@
 - Vending Motor: delivers products by transporting a product from the storage area to the dispensing area
 - Refrigerator: keeps products at the desired storage temperature, essential for food
 - Dispensing Tray: holds products in place so they don’t fall to the bottom of the vending machine
-- Product: drink or/and food inside the vending machine.
+- Product: drink or/and food inside the vending machine
+- Cash and Coins: the physical money to use in transactions
+- Data: credit-card information and system record
 
 # What assets are most valuable?
 ## Based on Price (estimated):
@@ -15,9 +17,10 @@
 - Control Board: $500
 - Bill Validator: $300
 - Credit Reader: $200
-- Product: vary but quickly escalate
+- Data: false sytem record
 ## Based on Risk:
 - Control Board: leaking information and no income
 - Credit Reader: leaking information
 - Bill Validator: no income from cash
+- Data: leaking and false information
 
