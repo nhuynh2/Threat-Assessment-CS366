@@ -30,3 +30,10 @@
 	- Receive dispensed item(s) successfully  
 	- Get a refund if the item cannot be dispensed  
 	- Ensure the transaction is fully closed before leaving
+
+- ### Diagrams
+#### 1. USER WORKFLOW DIAGRAM
+![User Workflow Diagram](user-workflow-diagram.png)
+
+#### 2. DATA FLOW DIAGRAM
+![Data Flow Diagram](data-flow-diagram.png)
