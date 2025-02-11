@@ -24,4 +24,4 @@
 - Control Board: leaking data and loss of income
 - Credit Reader: leaking data
 - Bill Validator: loss of income
-- Data: harm reputation, sued and compensation, loss of income
+- Data: harm reputation, sued and compensation, and loss of income
