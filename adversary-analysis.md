@@ -1,14 +1,12 @@
-# Adversary Analysis
-
+# Adversary Overview
 This report analyzes adversities targeting vending machine systems. This analysis will examine their objectives, methodologies, and capabilities. 
 
-### Adversary Profiles
+# Adversary Profiles
 __1. Internal Threat: Disgruntled Employee__
 
 The insider threat represents a big risk to vending machine security since they have privileged access and contain knowledge about the system
 
 OBJECTIVES
-
 Attackers such as these seek to cause financial harm to the company, steal products/cash, or cause operational disruption.
 
 METHODS
@@ -26,12 +24,10 @@ Their position provides advantages such as:
 __2. External Threat: Criminal Group__
 
 OBJECTIVE
-
 These groups focus on a large scale theft of cash or products. They can also install malware for wider network access (although this is rare).
 
 
 METHODS
-
 * Physical break ins such as breaking the glass with a tool
 * Network attacks if machine is connected 
 * social engineering of maintenance staff who can have access to sensitive information 
@@ -40,23 +36,21 @@ CAPABILITIES:
 * Technical skills that could allow either physical break ins or network access
 * Experience with similar attacks that they could have done before
 
-__3. Local Thief:__
+__3. External Threat: Malicious Student:__
 
 OBJECTIVES:
-
 Their goals focus on immediate gains through the following:
-* Direct product theft (such as vending machines that contain expensive technology)
+* Physical stealing
 * Cash extraction (this can occur from any type of vending machine)
 * Quick opportunistic attacks
 
 METHODS:
-
 Their approach typically involves:
-
 * Counterfeit currency in order to avoid paying for the product
 * Tool based attacks to destroy the glass of the vending machine
 
 CAPABILITIES: 
 * They contain access to basic tools such as hammers, rocks, etc.
 * Individual or small group operations
-* rapid attack execution
+* Rapid attack execution
+* Know how to avoid attention and camera
