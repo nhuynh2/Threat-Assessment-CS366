@@ -1,55 +1,50 @@
 # Adversary Overview
-This report analyzes adversities targeting vending machine systems. This analysis will examine their objectives, methodologies, and capabilities. 
+- This report analyzes adversities (targeting vending machine systems) by examining their objectives, methodologies, and capabilities.
+- They are classified into 2 type:
+- - Internal Threat: They represent a big risk to vending machine security since they have privileged access and contain knowledge about the system
+- - External Threat: They are not familiar with the system, but their capacities vary and unpredictable
 
 # Adversary Profiles
-__1. Internal Threat: Disgruntled Employee__
-
-The insider threat represents a big risk to vending machine security since they have privileged access and contain knowledge about the system
-
-OBJECTIVES
+## 1. Disgruntled Employee
+### Objectives
 Attackers such as these seek to cause financial harm to the company, steal products/cash, or cause operational disruption.
 
-METHODS
+### Methods
 * Distributing sensitive information to external parties for a share of the profits 
 * Compromise inventory tracking mechanisms in order to reach their objective
 
-CAPABILITIES
-
+### Capacities
 Their position provides advantages such as:
 * Valid system credentials and access rights
 * knowledge of system vulnerabilities (this can be either physical or something within the software)
 * Knowledge of operational schedules
 
-
-__2. External Threat: Criminal Group__
-
-OBJECTIVE
+## 2. High-tech criminals
+### Objectives
 These groups focus on a large scale theft of cash or products. They can also install malware for wider network access (although this is rare).
 
-
-METHODS
+### Methods
 * Physical break ins such as breaking the glass with a tool
 * Network attacks if machine is connected 
 * social engineering of maintenance staff who can have access to sensitive information 
 
-CAPABILITIES: 
+### Capacities
 * Technical skills that could allow either physical break ins or network access
 * Experience with similar attacks that they could have done before
 
-__3. External Threat: Malicious Student:__
-
-OBJECTIVES:
+## 3. Malicious Student
+### Objectives
 Their goals focus on immediate gains through the following:
 * Physical stealing
 * Cash extraction (this can occur from any type of vending machine)
 * Quick opportunistic attacks
 
-METHODS:
+### Methods
 Their approach typically involves:
 * Counterfeit currency in order to avoid paying for the product
 * Tool based attacks to destroy the glass of the vending machine
 
-CAPABILITIES: 
+### Capacities
 * They contain access to basic tools such as hammers, rocks, etc.
 * Individual or small group operations
 * Rapid attack execution
