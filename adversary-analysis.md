@@ -1,8 +1,8 @@
 # Adversary Overview
 - This report analyzes adversities (targeting vending machine systems) by examining their objectives, methodologies, and capabilities.
 - They are classified into 2 type:
-- - Internal Threat: They represent a big risk to vending machine security since they have privileged access and contain knowledge about the system
-- - External Threat: They are not familiar with the system, but their capacities vary and unpredictable
+  - Internal Threat: They represent a big risk to vending machine security since they have privileged access and contain knowledge about the system
+  - External Threat: They are not familiar with the system, but their capacities vary and unpredictable
 
 # Adversary Profiles
 ## 1. Disgruntled Employee
