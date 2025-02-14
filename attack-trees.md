@@ -4,7 +4,7 @@
 >Please look to the adversary analysis in order to see the whole picture of each profile. Each one contains a goal and a method of reaching that goal.
 
 ## 1. Disgruntled Employee Attack Trees
-![Attack Tree Graphs](photos\AttackTrees\AT1.jpg)
+![Attack Tree Graphs](.\photos\AttackTrees\AT1.jpg)
 
 ![Tree](photos\AttackTrees\AT2.jpg)
 
