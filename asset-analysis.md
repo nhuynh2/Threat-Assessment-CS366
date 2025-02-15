@@ -1,27 +1,31 @@
 # What assets exists in this system?
-- Control Board: controls the system to execute all operations
-- Credit Reader: allows a machine to communicate with payment system
-- Bill Validator: uses optical sensors that analyze the features of a bill to verify its authenticity
-- Coin Mechanism: uses light sensors to identify, classify, and validate inserted coins
-- Vending Lock: pervents anuthorized users from interfering with your vending inventory or cash
-- Vending Motor: delivers products by transporting a product from the storage area to the dispensing area
-- Refrigerator: keeps products at the desired storage temperature, essential for food
-- Dispensing Tray: holds products in place so they don’t fall to the bottom of the vending machine
-- Product: drink or/and food inside the vending machine
-- Cash and Coins: the physical money to use in transactions
-- Data: credit-card information and system record
+ **Control Board**: Manages the system to execute operations like processing payments, releasing products, tracking inventory, and handling errors.
+- **Communication Module**: Facilitates the secure and efficient exchange of data between system components.
+- **Inventory Sensors**: Track stock levels in real-time and automatically update inventory data.
+- **Credit Reader**: Allows the machine to communicate with the payment system.
+- **Bill Validator**: Verifies the authenticity of bills using optical sensors to analyze their features.
+- **Coin Mechanism**: Identifies, classifies, and validates inserted coins using light sensors.
+- **Vending Lock**: Prevents unauthorized access to the vending inventory and cash.
+- **Vending Motor**: Delivers products by moving them from the storage area to the dispensing area.
+- **Refrigerator**: Maintains the desired storage temperature for products, essential for food items.
+- **Dispensing Tray**: Holds products in place to prevent them from falling to the bottom of the vending machine.
+- **Products**: Drinks and/or food inside the vending machine.
+- **Cash and Coins**: Currency stored within the machine.
+- **Data**: Includes credit card information and system records.
 
 # What assets are most valuable?
 ## Based on Price:
-- Refrigerator: $800
-- Control Board: $500
-- Bill Validator: $300
-- Credit Reader: $200
-- Product: quickly escalated
-- Cash and Coins: quickly escalated
-- Data: loss of income due to false sytem record
+- **Refrigerator**: $800
+- **Control Board**: $500
+- **Communication Module**: $200
+- **Bill Validator**: $300
+- **Credit Reader**: $200
+- **Product**: Value escalates quickly.
+- **Cash and Coins**: Value escalates quickly.
+- **Data**: Loss of income due to inaccurate system records.
+
 ## Based on Risk:
-- Control Board: leaking data and loss of income
-- Credit Reader: leaking data
-- Bill Validator: loss of income
-- Data: harm reputation, sued and compensation, and loss of income
+- **Control Board**: Risk of leaking confidential data and loss of income.
+- **Credit Reader**: Risk of leaking sensitive data.
+- **Bill Validator**: Risk of loss of income due to invalid bills.
+- **Data**: Risk of harming reputation, lawsuits, compensation, and loss of income.
