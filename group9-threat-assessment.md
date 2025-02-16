@@ -55,7 +55,7 @@
 
 - ### What assets exists in this system?
 
-	 - **Control Board**: Manages the system to execute operations like processing payments, releasing products, tracking inventory, and handling errors.
+	- **Control Board**: Manages the system to execute operations like processing payments, releasing products, tracking inventory, and handling errors.
 
 	- **Communication Module**: Facilitates the secure and efficient exchange of data between system components.
 	
