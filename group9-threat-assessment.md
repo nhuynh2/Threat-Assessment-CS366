@@ -161,15 +161,15 @@ Their approach typically involves:
 
 # 5. Attack trees
 
-## 1. Disgruntled Employee Attack Trees
+## 1. Disgruntled Employees
 ![Attack Tree Graphs](photos/AttackTrees/AT1.jpg)
 
 ![Tree](photos/AttackTrees/AT2.jpg)
 
-## 2. Organized Criminal Group Attack Trees
+## 2. Organized Criminal Groups
 ![Tree3](photos/AttackTrees/AT3.jpg)
 
-## 3. Local Thief
+## 3. Local Thieves
 ![Tree4](photos/AttackTrees/AT4.jpg)
 
 ![Tree5](photos/AttackTrees/AT5.jpg)
