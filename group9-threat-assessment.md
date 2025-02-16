@@ -175,11 +175,11 @@ Their approach typically involves:
 ![Tree5](photos/AttackTrees/AT5.jpg)
 
 # 6. Defender analysis
-### Who is trying to defend the system?
+- ### Who is trying to defend the system?
 - The primary party trying to defend the system is the owner and operator of the vending machine.
 - Other significant parties involved in its defense would be the campus administration and payment processors.
 
-### What resources do they have access to?
+- ### What resources do they have access to?
 
 #### Machine Operator
 - The machine's operator likely has access to physical security measures on the machine, such as a strong casing for the machine itself and locks to keep its contents secure.
