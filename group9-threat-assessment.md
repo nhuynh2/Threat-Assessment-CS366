@@ -176,25 +176,25 @@ Their approach typically involves:
 
 # 6. Defender analysis
 - ### Who is trying to defend the system?
-- The primary party trying to defend the system is the owner and operator of the vending machine.
-- Other significant parties involved in its defense would be the campus administration and payment processors.
+	- The primary party trying to defend the system is the owner and operator of the vending machine.
+	- Other significant parties involved in its defense would be the campus administration and payment processors.
 
 - ### What resources do they have access to?
 
-#### Machine Operator
-- The machine's operator likely has access to physical security measures on the machine, such as a strong casing for the machine itself and locks to keep its contents secure.
-- They also likely have access to a transaction log, tracking purchases made with both physical and digital payment methods, ideally helping them notice and prevent unusual activity.
-- The operator likely has some sort of alarm or alert system in place so that they would be alerted if the machine were compromised physically or digitally.
+	#### Machine Operator
+	- The machine's operator likely has access to physical security measures on the machine, such as a strong casing for the machine itself and locks to keep its contents secure.
+	- They also likely have access to a transaction log, tracking purchases made with both physical and digital payment methods, ideally helping them notice and prevent unusual activity.
+	- The operator likely has some sort of alarm or alert system in place so that they would be alerted if the machine were compromised physically or digitally.
 
-#### University Administration
-- The university has security cameras all across campus, ideally catching or deterring anyone acting against a vending machine.
-- The university also has access to appropriate physical response in the form of security and campus police to deter and apprehend anyone who may be at fault.
-- In the case of a digital attack, the university has access to its information security team to ideally deter and catch those at fault.
+	#### University Administration
+	- The university has security cameras all across campus, ideally catching or deterring anyone acting against a vending machine.
+	- The university also has access to appropriate physical response in the form of security and campus police to deter and apprehend anyone who may be at fault.
+	- In the case of a digital attack, the university has access to its information security team to ideally deter and catch those at fault.
 
-#### Payment Processors
-- Payment processors serve as a form of protection for the users of the vending machine in case their payment information is stolen, an example of this would be a payment skimmer.
-- Payment processors can block fraudulent payments, ideally protecting the user and owner of the vending machine.
-- If fraudulent activity is not identified until after the transaction, payment processors can work to reimburse customers.
+	#### Payment Processors
+	- Payment processors serve as a form of protection for the users of the vending machine in case their payment information is stolen, an example of this would be a payment skimmer.
+	- Payment processors can block fraudulent payments, ideally protecting the user and owner of the vending machine.
+	- If fraudulent activity is not identified until after the transaction, payment processors can work to reimburse customers.
 
 # 7. Risk analysis
 
