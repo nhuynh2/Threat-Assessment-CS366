@@ -1,8 +1,8 @@
-# Threat-Assessment-CS366
-This repository contains Group 9’s project for COSC 366 - Introduction to Cybersecurity. It focuses on threat assessment, analyzing potential security risks, and implementing mitigation strategies.
+# Threat Assessment on Vending Machines – COSC 366
+This repository contains Group 9’s project for _COSC 366 - Introduction to Cybersecurity_. The project focuses on assessing security risks in vending machines, identifying potential threats, constructing attack trees, and proposing mitigation strategies.
+As part of our research, we analyzed the architecture, data workflow, and user interactions of modern vending machines on the University of Tennessee, Knoxville (UTK) campus to understand potential vulnerabilities and attack surfaces.
 
-
-## **Collaboration Guidelines**
+### **Collaboration Guidelines**
 
 - **Add your work directly to the `main` branch** if it's ready for the main project.
   - **Create a new file** with the appropriate naming convention: `part-description.extension`.
